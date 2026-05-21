@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bruce Wayne",
+        "phone_number": "0798765432"
+    },
+    {
+        "name": "Clark Kent",
+        "phone_number": "0711223344"
+    },
+    {
+        "name": "Diana Prince",
+        "phone_number": "0799887766"
+    },
+    {
+        "name": "Wally West",
+        "phone_number": "0111334256"
+    },
+    {
+        "name": "John Jones",
+        "phone_number": "0123324354"
+    }
+]
